@@ -9,8 +9,8 @@
  /projects/xdotool/xdotool.xhtml 0.07756232686980609 0.07756232686980609 1.0
  /projects/xdotool/,/projects/xdotool/xdotool.xhtml 0.030470914127423823 0.030470914127423823 1.0
  /presentations/logstash-puppetconf-2012/,/presentations/puppet-at-loggly/puppet-at-loggly.pdf.html 0.020313942751615882 0.020313942751615882 1.0
- /blog/geekery/solving-good-or-bad-problems.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+semicomplete%2Fmain+%28semicomplete.com+-+Jordan+Sissel%29,/blog/geekery/disabling-battery-in-ubuntu-vms.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+semicomplete%2Fmain+%28semicomplete.com+-+Jordan+Sissel%29 0.03785780240073869 0.03785780240073869 1.0
- /blog/geekery/installing-windows-8-consumer-preview.html,/ 0.028624192059095107 0.028624192059095107 1.0
+ /blog/geekery/disabling-battery-in-ubuntu-vms.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+semicomplete%2Fmain+%28semicomplete.com+-+Jordan+Sissel%29,/blog/geekery/solving-good-or-bad-problems.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+semicomplete%2Fmain+%28semicomplete.com+-+Jordan+Sissel%29 0.03785780240073869 0.03785780240073869 1.0
+ /,/blog/geekery/installing-windows-8-consumer-preview.html 0.028624192059095107 0.028624192059095107 1.0
  / 0.09418282548476455 0.09418282548476455 1.0
  /?flav=atom 0.055401662049861494 0.055401662049861494 1.0
  /presentations/puppet-at-loggly/puppet-at-loggly.pdf.html 0.02677746999076639 0.02677746999076639 1.0
